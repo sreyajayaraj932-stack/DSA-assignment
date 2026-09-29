@@ -1,0 +1,2029 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 8
+/Kids [ 4 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3239
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (BST Identification Database - DSA Project) Tj T* ET
+BT 1 0 0 1 511.6462 34.01575 Tm (Page 1) Tj T* ET
+.839216 .721569 .839216 RG
+n 56.69291 45.35433 m 538.5827 45.35433 l S
+Q
+q
+1 0 0 1 62.69291 754.8661 cm
+Q
+q
+1 0 0 1 62.69291 722.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 6 Tm /F2 26 Tf 32 TL 63.01988 0 Td (BST Identification Database) Tj T* -63.01988 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.8661 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F1 12 Tf 15 TL 131.2409 0 Td (Data Structures and Algorithms Project) Tj T* -131.2409 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.8661 cm
+Q
+q
+1 0 0 1 62.69291 649.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (Project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 599.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (Implementation and analysis of a Binary Search Tree \(BST\) for a government identification database,) Tj T* (including inorder traversal, a BST vs linear search comparison, and an analysis of the effect of key) Tj T* (length and insertion order.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 571.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (Question) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 506.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.5 Tm /F1 10.5 Tf 15 TL (A government database stores the identification numbers below. Implement a BST using) Tj T* (lexicographic string comparison, perform inorder traversal, compare BST search with linear search,) Tj T* (and analyse the effect of key length and insertion order. Suggest a suitable approach for a growing) Tj T* (database.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 478.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (Input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 460.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F3 9.5 Tf 13 TL (A102, A25, A7, B100, B12, A120, B3, A45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 432.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (Search Keys) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 414.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F3 9.5 Tf 13 TL (A102, A120, A45, B12, B3, A7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (Folder Structure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.8661 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 98.5 Tm /F3 9.5 Tf 13.5 TL (01_Question/) Tj T* (02_Source_Code/) Tj T* (03_Input_Data/) Tj T* (04_Output/) Tj T* (05_Trace_Tables/) Tj T* (06_Complexity_Analysis/) Tj T* (07_Comparison/) Tj T* (08_Final_Conclusion/) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 258.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Each folder contains the corresponding item required for the GitHub submission.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 230.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (Final Inorder Traversal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 212.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F3 9.5 Tf 13 TL (A102 A120 A25 A45 A7 B100 B12 B3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 191.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Resulting BST height = 5 edges \(unbalanced for the given insertion order\).) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 2599
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (BST Identification Database - DSA Project) Tj T* ET
+BT 1 0 0 1 511.6462 34.01575 Tm (Page 2) Tj T* ET
+.839216 .721569 .839216 RG
+n 56.69291 45.35433 m 538.5827 45.35433 l S
+Q
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (1. Source Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 737.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (File: ) Tj /F3 10.5 Tf (bst_identification.c) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 71.86614 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 652.4 Tm /F3 7.6 Tf 10 TL (#include <stdio.h>) Tj T* (#include <stdlib.h>) Tj T* (#include <string.h>) Tj T*  T* (#define MAX_ID 20) Tj T* (#define N 8) Tj T*  T* (struct Node {) Tj T* (    char id[MAX_ID];) Tj T* (    struct Node *left;) Tj T* (    struct Node *right;) Tj T* (};) Tj T*  T* (struct Node *createNode\(const char id[]\) {) Tj T* (    struct Node *newNode = \(struct Node *\)malloc\(sizeof\(struct Node\)\);) Tj T* (    strcpy\(newNode->id, id\);) Tj T* (    newNode->left = NULL;) Tj T* (    newNode->right = NULL;) Tj T* (    return newNode;) Tj T* (}) Tj T*  T* (struct Node *insert\(struct Node *root, const char id[]\) {) Tj T* (    if \(root == NULL\)) Tj T* (        return createNode\(id\);) Tj T*  T* (    if \(strcmp\(id, root->id\) < 0\)) Tj T* (        root->left = insert\(root->left, id\);) Tj T* (    else if \(strcmp\(id, root->id\) > 0\)) Tj T* (        root->right = insert\(root->right, id\);) Tj T*  T* (    return root;) Tj T* (}) Tj T*  T* (void inorder\(struct Node *root\) {) Tj T* (    if \(root != NULL\) {) Tj T* (        inorder\(root->left\);) Tj T* (        printf\("%s ", root->id\);) Tj T* (        inorder\(root->right\);) Tj T* (    }) Tj T* (}) Tj T*  T* (int bstSearch\(struct Node *root, const char key[]\) {) Tj T* (    int comparisons = 0;) Tj T*  T* (    while \(root != NULL\) {) Tj T* (        comparisons++;) Tj T*  T* (        if \(strcmp\(key, root->id\) == 0\)) Tj T* (            return comparisons;) Tj T*  T* (        if \(strcmp\(key, root->id\) < 0\)) Tj T* (            root = root->left;) Tj T* (        else) Tj T* (            root = root->right;) Tj T* (    }) Tj T*  T* (    return comparisons;) Tj T* (}) Tj T*  T* (int linearSearch\(const char ids[][MAX_ID], int n, const char key[]\) {) Tj T* (    int comparisons = 0;) Tj T*  T* (    for \(int i = 0; i < n; i++\) {) Tj T* (        comparisons++;) Tj T* (        if \(strcmp\(ids[i], key\) == 0\)) Tj T* (            return comparisons;) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 2448
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (BST Identification Database - DSA Project) Tj T* ET
+BT 1 0 0 1 511.6462 34.01575 Tm (Page 3) Tj T* ET
+.839216 .721569 .839216 RG
+n 56.69291 45.35433 m 538.5827 45.35433 l S
+Q
+q
+1 0 0 1 62.69291 124.8661 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 652.4 Tm /F3 7.6 Tf 10 TL (    }) Tj T*  T* (    return comparisons;) Tj T* (}) Tj T*  T* (int height\(struct Node *root\) {) Tj T* (    if \(root == NULL\)) Tj T* (        return -1;) Tj T*  T* (    int left = height\(root->left\);) Tj T* (    int right = height\(root->right\);) Tj T*  T* (    return \(left > right ? left : right\) + 1;) Tj T* (}) Tj T*  T* (void freeTree\(struct Node *root\) {) Tj T* (    if \(root != NULL\) {) Tj T* (        freeTree\(root->left\);) Tj T* (        freeTree\(root->right\);) Tj T* (        free\(root\);) Tj T* (    }) Tj T* (}) Tj T*  T* (int main\(void\) {) Tj T* (    const char ids[N][MAX_ID] = {) Tj T* (        "A102", "A25", "A7", "B100",) Tj T* (        "B12", "A120", "B3", "A45") Tj T* (    };) Tj T*  T* (    const char searchKeys[][MAX_ID] = {) Tj T* (        "A102", "A120", "A45", "B12", "B3", "A7") Tj T* (    };) Tj T*  T* (    int searchCount = sizeof\(searchKeys\) / sizeof\(searchKeys[0]\);) Tj T* (    struct Node *root = NULL;) Tj T*  T* (    printf\("BST IDENTIFICATION DATABASE\\n"\);) Tj T* (    printf\("===========================\\n\\n"\);) Tj T*  T* (    printf\("Input identification numbers:\\n"\);) Tj T* (    for \(int i = 0; i < N; i++\)) Tj T* (        printf\("%s ", ids[i]\);) Tj T*  T* (    for \(int i = 0; i < N; i++\)) Tj T* (        root = insert\(root, ids[i]\);) Tj T*  T* (    printf\("\\n\\nInorder traversal:\\n"\);) Tj T* (    inorder\(root\);) Tj T*  T* (    printf\("\\n\\nBST height \(edges\) = %d\\n", height\(root\)\);) Tj T*  T* (    printf\("\\nSearch comparison table:\\n"\);) Tj T* (    printf\("%-8s %-14s %-16s\\n", "ID", "BST", "Linear"\);) Tj T* (    printf\("--------------------------------------\\n"\);) Tj T*  T* (    for \(int i = 0; i < searchCount; i++\) {) Tj T* (        int bst = bstSearch\(root, searchKeys[i]\);) Tj T* (        int linear = linearSearch\(ids, N, searchKeys[i]\);) Tj T*  T* (        printf\("%-8s %-14d %-16d\\n",) Tj T* (               searchKeys[i], bst, linear\);) Tj T* (    }) Tj T*  T* (    freeTree\(root\);) Tj T* (    return 0;) Tj T* (}) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 4408
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (BST Identification Database - DSA Project) Tj T* ET
+BT 1 0 0 1 511.6462 34.01575 Tm (Page 4) Tj T* ET
+.839216 .721569 .839216 RG
+n 56.69291 45.35433 m 538.5827 45.35433 l S
+Q
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (2. Input Data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 737.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (Identification numbers are inserted in the order shown \(one per line in ) Tj /F3 10.5 Tf (input.txt) Tj /F1 10.5 Tf (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 547.3661 cm
+q
+.372549 .121569 .372549 rg
+n 0 184.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 143.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 102.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 61.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 20.5 481.8898 -20.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 168 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Insertion Order) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 168 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Identification Number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 147.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A102) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 127 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 127 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (B100) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (B12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A120) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (B3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A45) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.839216 .721569 .839216 RG
+.5 w
+n 0 184.5 m 481.8898 184.5 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 184.5 l S
+n 481.8898 0 m 481.8898 184.5 l S
+n 0 164 m 481.8898 164 l S
+n 0 143.5 m 481.8898 143.5 l S
+n 0 123 m 481.8898 123 l S
+n 0 102.5 m 481.8898 102.5 l S
+n 0 82 m 481.8898 82 l S
+n 0 61.5 m 481.8898 61.5 l S
+n 0 41 m 481.8898 41 l S
+n 0 20.5 m 481.8898 20.5 l S
+n 192.7559 0 m 192.7559 184.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 537.3661 cm
+Q
+q
+1 0 0 1 62.69291 509.3661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (Raw input file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 392.3661 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 102 Tm /F3 10 Tf 14 TL (A102) Tj T* (A25) Tj T* (A7) Tj T* (B100) Tj T* (B12) Tj T* (A120) Tj T* (B3) Tj T* (A45) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 380.3661 cm
+Q
+q
+1 0 0 1 62.69291 358.3661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (3. Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.3661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Program output \(compiled with gcc and executed; matches the supplied output exactly\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 99.36614 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 6 219 Tm /F3 9 Tf 11.4 TL (BST IDENTIFICATION DATABASE) Tj T* (===========================) Tj T*  T* (Input identification numbers:) Tj T* (A102 A25 A7 B100 B12 A120 B3 A45) Tj T*  T* (Inorder traversal:) Tj T* (A102 A120 A25 A45 A7 B100 B12 B3) Tj T*  T* (BST height \(edges\) = 5) Tj T*  T* (Search comparison table:) Tj T* (ID       BST            Linear) Tj T* (--------------------------------------) Tj T* (A102     1              1) Tj T* (A120     3              6) Tj T* (A45      4              8) Tj T* (B12      5              5) Tj T* (B3       6              7) Tj T* (A7       3              3) Tj T* ET
+Q
+ 
+
+endstream
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 5254
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (BST Identification Database - DSA Project) Tj T* ET
+BT 1 0 0 1 511.6462 34.01575 Tm (Page 5) Tj T* ET
+.839216 .721569 .839216 RG
+n 56.69291 45.35433 m 538.5827 45.35433 l S
+Q
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (4. Trace Tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 734.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (4.1 BST Insertion Trace) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 545.3661 cm
+q
+.372549 .121569 .372549 rg
+n 0 184.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 143.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 102.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 61.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 20.5 481.8898 -20.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 168 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.37008 168 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Inserted ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 168 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Comparisons / Path) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 168 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Position) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 147.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.37008 147.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A102) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 147.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (-) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 147.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Root) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 127 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.37008 127 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 127 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (A25 > A102) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 127 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Right of A102) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.37008 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 106.5 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (A7 > A102, A7 > A25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Right of A25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.37008 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (B100) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 86 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (B100 > A102, B100 > A25, B100 > A7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Right of A7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.37008 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (B12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 65.5 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (B12 > A102, B12 > A25, B12 > A7, B12 > B100) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Right of B100) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.37008 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A120) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 45 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (A120 > A102, A120 < A25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Left of A25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.37008 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (B3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 24.5 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (B3 > A102, B3 > A25, B3 > A7, B3 > B100, B3 > B12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Right of B12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.37008 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 4 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (A45 > A102, A45 > A25, A45 < A7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Left of A7) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.839216 .721569 .839216 RG
+.5 w
+n 0 184.5 m 481.8898 184.5 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 184.5 l S
+n 481.8898 0 m 481.8898 184.5 l S
+n 0 164 m 481.8898 164 l S
+n 0 143.5 m 481.8898 143.5 l S
+n 0 123 m 481.8898 123 l S
+n 0 102.5 m 481.8898 102.5 l S
+n 0 82 m 481.8898 82 l S
+n 0 61.5 m 481.8898 61.5 l S
+n 0 41 m 481.8898 41 l S
+n 0 20.5 m 481.8898 20.5 l S
+n 43.37008 0 m 43.37008 184.5 l S
+n 120.4724 0 m 120.4724 184.5 l S
+n 361.4173 0 m 361.4173 184.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 509.3661 cm
+q
+BT 1 0 0 1 0 21 Tm 15 TL /F1 9 Tf .333333 .333333 .333333 rg (Comparisons use lexicographic \(character-by-character\) string order, e.g. "A120" > "A102" because '2' > '0' at the) Tj T* (fourth character, and "A120" < "A25" because '1' < '2' at the second character.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 8025
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (BST Identification Database - DSA Project) Tj T* ET
+BT 1 0 0 1 511.6462 34.01575 Tm (Page 6) Tj T* ET
+.839216 .721569 .839216 RG
+n 56.69291 45.35433 m 538.5827 45.35433 l S
+Q
+q
+1 0 0 1 62.69291 766.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (4.2 Resulting BST) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 431.8661 cm
+.372549 .121569 .372549 RG
+1.2 w
+n 70 292 m 132 262 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 106.2925 277 Tm (R) Tj T* ET
+n 132 236 m 70 206 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 90.915 221 Tm (L) Tj T* ET
+n 132 236 m 194 206 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 168.2925 221 Tm (R) Tj T* ET
+n 194 180 m 132 150 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 152.915 165 Tm (L) Tj T* ET
+n 194 180 m 256 150 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 230.2925 165 Tm (R) Tj T* ET
+n 256 124 m 318 94 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 292.2925 109 Tm (R) Tj T* ET
+n 318 68 m 380 38 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 354.2925 53 Tm (R) Tj T* ET
+.972549 .917647 .972549 rg
+.372549 .121569 .372549 RG
+n
+51 292 m
+89 292 l
+92.3168 292 95 294.6832 95 298 c
+95 312 l
+95 315.3168 92.3168 318 89 318 c
+51 318 l
+47.6832 318 45 315.3168 45 312 c
+45 298 l
+45 294.6832 47.6832 292 51 292 c
+h
+B*
+.372549 .121569 .372549 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 58.05 301.5 Tm (A102) Tj T* ET
+.972549 .917647 .972549 rg
+.372549 .121569 .372549 RG
+n
+113 236 m
+151 236 l
+154.3168 236 157 238.6832 157 242 c
+157 256 l
+157 259.3168 154.3168 262 151 262 c
+113 262 l
+109.6832 262 107 259.3168 107 256 c
+107 242 l
+107 238.6832 109.6832 236 113 236 c
+h
+B*
+.372549 .121569 .372549 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 122.83 245.5 Tm (A25) Tj T* ET
+.972549 .917647 .972549 rg
+.372549 .121569 .372549 RG
+n
+51 180 m
+89 180 l
+92.3168 180 95 182.6832 95 186 c
+95 200 l
+95 203.3168 92.3168 206 89 206 c
+51 206 l
+47.6832 206 45 203.3168 45 200 c
+45 186 l
+45 182.6832 47.6832 180 51 180 c
+h
+B*
+.372549 .121569 .372549 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 58.05 189.5 Tm (A120) Tj T* ET
+.972549 .917647 .972549 rg
+.372549 .121569 .372549 RG
+n
+175 180 m
+213 180 l
+216.3168 180 219 182.6832 219 186 c
+219 200 l
+219 203.3168 216.3168 206 213 206 c
+175 206 l
+171.6832 206 169 203.3168 169 200 c
+169 186 l
+169 182.6832 171.6832 180 175 180 c
+h
+B*
+.372549 .121569 .372549 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 187.61 189.5 Tm (A7) Tj T* ET
+.972549 .917647 .972549 rg
+.372549 .121569 .372549 RG
+n
+113 124 m
+151 124 l
+154.3168 124 157 126.6832 157 130 c
+157 144 l
+157 147.3168 154.3168 150 151 150 c
+113 150 l
+109.6832 150 107 147.3168 107 144 c
+107 130 l
+107 126.6832 109.6832 124 113 124 c
+h
+B*
+.372549 .121569 .372549 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 122.83 133.5 Tm (A45) Tj T* ET
+.972549 .917647 .972549 rg
+.372549 .121569 .372549 RG
+n
+237 124 m
+275 124 l
+278.3168 124 281 126.6832 281 130 c
+281 144 l
+281 147.3168 278.3168 150 275 150 c
+237 150 l
+233.6832 150 231 147.3168 231 144 c
+231 130 l
+231 126.6832 233.6832 124 237 124 c
+h
+B*
+.372549 .121569 .372549 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 244.05 133.5 Tm (B100) Tj T* ET
+.972549 .917647 .972549 rg
+.372549 .121569 .372549 RG
+n
+299 68 m
+337 68 l
+340.3168 68 343 70.6832 343 74 c
+343 88 l
+343 91.3168 340.3168 94 337 94 c
+299 94 l
+295.6832 94 293 91.3168 293 88 c
+293 74 l
+293 70.6832 295.6832 68 299 68 c
+h
+B*
+.372549 .121569 .372549 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 308.83 77.5 Tm (B12) Tj T* ET
+.972549 .917647 .972549 rg
+.372549 .121569 .372549 RG
+n
+361 12 m
+399 12 l
+402.3168 12 405 14.6832 405 18 c
+405 32 l
+405 35.3168 402.3168 38 399 38 c
+361 38 l
+357.6832 38 355 35.3168 355 32 c
+355 18 l
+355 14.6832 357.6832 12 361 12 c
+h
+B*
+.372549 .121569 .372549 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 373.61 21.5 Tm (B3) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 0 302 Tm (Level 0) Tj T* ET
+BT 1 0 0 1 0 246 Tm (Level 1) Tj T* ET
+BT 1 0 0 1 0 190 Tm (Level 2) Tj T* ET
+BT 1 0 0 1 0 134 Tm (Level 3) Tj T* ET
+BT 1 0 0 1 0 78 Tm (Level 4) Tj T* ET
+BT 1 0 0 1 0 22 Tm (Level 5) Tj T* ET
+Q
+q
+1 0 0 1 62.69291 401.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Height = 5 edges \(6 levels\). Every node except A25 and A7 has only one child, so the tree is heavily) Tj T* (skewed to the right.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 389.8661 cm
+Q
+q
+1 0 0 1 62.69291 361.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (4.3 BST Search Trace) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 213.3661 cm
+q
+.372549 .121569 .372549 rg
+n 0 143.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 102.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 61.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 20.5 481.8898 -20.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 127 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Key) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.82677 127 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (BST Path \(FOUND at last node\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 324.0472 127 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (BST Comps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401.1496 127 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Linear Comps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A102) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.82677 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A102) Tj T* ET
+Q
+Q
+q
+1 0 0 1 324.0472 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401.1496 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A120) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.82677 86 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (A102 -) Tj (> A25 -) Tj (> A120) Tj T* ET
+Q
+Q
+q
+1 0 0 1 324.0472 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401.1496 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.82677 65.5 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (A102 -) Tj (> A25 -) Tj (> A7 -) Tj (> A45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 324.0472 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401.1496 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (B12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.82677 45 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (A102 -) Tj (> A25 -) Tj (> A7 -) Tj (> B100 -) Tj (> B12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 324.0472 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401.1496 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (B3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.82677 24.5 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (A102 -) Tj (> A25 -) Tj (> A7 -) Tj (> B100 -) Tj (> B12 -) Tj (> B3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 324.0472 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401.1496 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 63.82677 4 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F1 9.5 Tf 0 0 0 rg (A102 -) Tj (> A25 -) Tj (> A7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 324.0472 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 401.1496 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.839216 .721569 .839216 RG
+.5 w
+n 0 143.5 m 481.8898 143.5 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 143.5 l S
+n 481.8898 0 m 481.8898 143.5 l S
+n 0 123 m 481.8898 123 l S
+n 0 102.5 m 481.8898 102.5 l S
+n 0 82 m 481.8898 82 l S
+n 0 61.5 m 481.8898 61.5 l S
+n 0 41 m 481.8898 41 l S
+n 0 20.5 m 481.8898 20.5 l S
+n 57.82677 0 m 57.82677 143.5 l S
+n 318.0472 0 m 318.0472 143.5 l S
+n 395.1496 0 m 395.1496 143.5 l S
+Q
+Q
+Q
+ 
+
+endstream
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 9843
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (BST Identification Database - DSA Project) Tj T* ET
+BT 1 0 0 1 511.6462 34.01575 Tm (Page 7) Tj T* ET
+.839216 .721569 .839216 RG
+n 56.69291 45.35433 m 538.5827 45.35433 l S
+Q
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (5. Complexity Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 737.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F1 10.5 Tf 0 0 0 rg (Let ) Tj /F4 10.5 Tf (n) Tj /F1 10.5 Tf ( be the number of identification numbers and ) Tj /F4 10.5 Tf (h) Tj /F1 10.5 Tf ( the height of the BST.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 608.8661 cm
+q
+.372549 .121569 .372549 rg
+n 0 123 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 82 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 41 481.8898 -20.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 106.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Operation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 106.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Best) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 106.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Average) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 106.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Worst) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (BST search) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(1\) - key at root) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(log n\) - balanced) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(n\) - skewed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (BST insertion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(1\) - empty tree) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(log n\) - balanced) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(n\) - skewed) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Inorder traversal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Linear search) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (BST storage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 126.4724 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 246.9449 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 367.4173 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (O\(n\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.839216 .721569 .839216 RG
+.5 w
+n 0 123 m 481.8898 123 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 123 l S
+n 481.8898 0 m 481.8898 123 l S
+n 0 102.5 m 481.8898 102.5 l S
+n 0 82 m 481.8898 82 l S
+n 0 61.5 m 481.8898 61.5 l S
+n 0 41 m 481.8898 41 l S
+n 0 20.5 m 481.8898 20.5 l S
+n 120.4724 0 m 120.4724 123 l S
+n 240.9449 0 m 240.9449 123 l S
+n 361.4173 0 m 361.4173 123 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 602.8661 cm
+Q
+q
+1 0 0 1 62.69291 574.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (Additional notes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 554.8661 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Recursion space:) Tj /F1 10.5 Tf ( inorder traversal uses O\(h\) auxiliary stack space, where h is the tree height.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 506.8661 cm
+q
+BT 1 0 0 1 2 34.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Effect of key length:) Tj /F1 10.5 Tf ( BST height depends mainly on the number of keys and their insertion order.) Tj T* (Longer identification strings increase the cost of each string comparison, because characters are) Tj T* (compared until a difference is found.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 473.8661 cm
+q
+BT 1 0 0 1 2 19.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 19.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Effect of insertion order:) Tj /F1 10.5 Tf ( an ordinary BST is strongly affected by insertion order. A suitable order) Tj T* (gives a more balanced tree; an unfortunate order gives a skewed tree with height close to n-1.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 440.8661 cm
+q
+BT 1 0 0 1 2 19.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 19.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Theoretical comparison:) Tj /F1 10.5 Tf ( balanced BST search O\(log n\); skewed BST search O\(n\); linear search) Tj T* (O\(n\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 407.8661 cm
+q
+BT 1 0 0 1 2 19.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 14 19.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Growing database:) Tj /F1 10.5 Tf ( a self-balancing BST such as an AVL tree or Red-Black tree maintains) Tj T* (logarithmic-height search performance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 394.8661 cm
+Q
+q
+1 0 0 1 62.69291 372.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (6. Performance Comparison) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 219.3661 cm
+q
+.372549 .121569 .372549 rg
+n 0 143.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 102.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 61.5 481.8898 -20.5 re f*
+.972549 .917647 .972549 rg
+n 0 20.5 481.8898 -20.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 127 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Search ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 83.10236 127 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (BST Comparisons) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 127 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Linear Search Comparisons) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.9606 127 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 9.5 Tf 12.5 TL (Result) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A102) Tj T* ET
+Q
+Q
+q
+1 0 0 1 83.10236 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.9606 106.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Equal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A120) Tj T* ET
+Q
+Q
+q
+1 0 0 1 83.10236 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.9606 86 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (BST faster) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A45) Tj T* ET
+Q
+Q
+q
+1 0 0 1 83.10236 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.9606 65.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (BST faster) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (B12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 83.10236 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.9606 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Equal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (B3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 83.10236 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.9606 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (BST faster) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (A7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 83.10236 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 198.7559 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 352.9606 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (Equal) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.839216 .721569 .839216 RG
+.5 w
+n 0 143.5 m 481.8898 143.5 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 143.5 l S
+n 481.8898 0 m 481.8898 143.5 l S
+n 0 123 m 481.8898 123 l S
+n 0 102.5 m 481.8898 102.5 l S
+n 0 82 m 481.8898 82 l S
+n 0 61.5 m 481.8898 61.5 l S
+n 0 41 m 481.8898 41 l S
+n 0 20.5 m 481.8898 20.5 l S
+n 77.10236 0 m 77.10236 143.5 l S
+n 192.7559 0 m 192.7559 143.5 l S
+n 346.9606 0 m 346.9606 143.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 211.3661 cm
+Q
+q
+1 0 0 1 62.69291 183.3661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 5.5 Tm /F2 12.5 Tf 18 TL (Observation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 163.3661 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 4.5 Tm /F1 10.5 Tf 15 TL (BST is faster for A120, A45 and B3 in this experiment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 145.3661 cm
+q
+BT 1 0 0 1 2 4.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 4.5 Tm /F1 10.5 Tf 15 TL (BST and linear search use the same number of comparisons for A102, B12 and A7.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 112.3661 cm
+q
+BT 1 0 0 1 2 19.5 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 14 19.5 Tm /F1 10.5 Tf 15 TL (The ordinary BST is unbalanced for the given insertion order, so its performance is not always) Tj T* (close to O\(log n\).) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 2232
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8.5 Tf 10.2 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 56.69291 34.01575 Tm (BST Identification Database - DSA Project) Tj T* ET
+BT 1 0 0 1 511.6462 34.01575 Tm (Page 8) Tj T* ET
+.839216 .721569 .839216 RG
+n 56.69291 45.35433 m 538.5827 45.35433 l S
+Q
+q
+1 0 0 1 62.69291 762.8661 cm
+q
+.372549 .121569 .372549 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (7. Final Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 722.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (The given identification numbers were inserted into a Binary Search Tree using lexicographic string) Tj T* (comparison. The inorder traversal produced the identifiers in sorted \(lexicographic\) order:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 703.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F3 9.5 Tf 13 TL (A102 A120 A25 A45 A7 B100 B12 B3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 667.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Because the comparison is character by character, this is dictionary order rather than numeric order) Tj T* (\(for example, A25 comes after A120\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 616.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (The given insertion order produced an unbalanced BST with height 5 edges. The search experiment) Tj T* (showed that BST search used fewer comparisons for several of the selected keys, although it was) Tj T* (equal to linear search for some keys.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 550.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.5 Tm /F1 10.5 Tf 15 TL (Key length mainly affects the cost of individual string comparisons, whereas insertion order has a) Tj T* (direct effect on BST height. A balanced BST provides O\(log n\) search in the usual balanced case,) Tj T* (while an ordinary skewed BST can degrade to O\(n\), which is the same asymptotic worst case as) Tj T* (linear search.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 499.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (Therefore, as the identification database grows, a self-balancing BST such as an AVL tree or) Tj T* (Red-Black tree is a suitable approach for maintaining efficient searches. For very large persistent) Tj T* (databases, B-tree / B+ tree based indexing is also commonly suitable.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000162 00000 n 
+0000000211 00000 n 
+0000000410 00000 n 
+0000003701 00000 n 
+0000003763 00000 n 
+0000003870 00000 n 
+0000003982 00000 n 
+0000004087 00000 n 
+0000004203 00000 n 
+0000004404 00000 n 
+0000007056 00000 n 
+0000007257 00000 n 
+0000009758 00000 n 
+0000009959 00000 n 
+0000014420 00000 n 
+0000014621 00000 n 
+0000019928 00000 n 
+0000020129 00000 n 
+0000028207 00000 n 
+0000028408 00000 n 
+0000038304 00000 n 
+0000038505 00000 n 
+trailer
+<<
+/Size 25
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+40790
+%%EOF
